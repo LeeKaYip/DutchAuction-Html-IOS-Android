@@ -6,5 +6,6 @@ This project created in html with firebase. It provide html, IOS and Android Ver
 
 # Here is the Demo Video: https://youtu.be/jwpTGRTHun4
 # Here is the link of the Website: https://test-ver.web.app/
+You can enter the website by your phone. After that, you can click the "Add to Main Page" option in your phone, set the name of it. The website will turn to the app version and storage in your phone.
 # Important!!!!!! 
 I accident delete the Firebase project, so it only show the UI. If you want to know more about the project, you can click the youtube link to watch the demo video.
